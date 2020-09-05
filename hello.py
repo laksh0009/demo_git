@@ -1,3 +1,3 @@
 name="Ram"
-
-print(name)
+surname = "lokhande"
+print(name+surname)
